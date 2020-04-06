@@ -1,0 +1,2 @@
+# codeql-sample
+codeql sample
